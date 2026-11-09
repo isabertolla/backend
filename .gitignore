@@ -1,0 +1,24 @@
+# Ignorar pasta de pacotes pesados do Node.js
+çnode_modules/
+
+
+
+
+
+
+
+
+# Ignorar rigorosamente o Cofre Digital de variaveis de ambiente
+.env
+.env.local
+.env.production
+
+
+
+
+
+
+
+
+# Ignorar logs do sistema
+npm-debug.log*
